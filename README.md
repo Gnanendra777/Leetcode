@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Gnanendra777/Leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
