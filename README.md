@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/Gnanendra777/Leetcode/tree/master/3379-score-of-a-string) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Gnanendra777/Leetcode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Gnanendra777/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
