@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Gnanendra777/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Gnanendra777/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Gnanendra777/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gnanendra777/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gnanendra777/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Gnanendra777/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Gnanendra777/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gnanendra777/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gnanendra777/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
