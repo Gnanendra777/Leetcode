@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Gnanendra777/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Gnanendra777/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gnanendra777/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gnanendra777/Leetcode/tree/master/0014-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/Gnanendra777/Leetcode/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gnanendra777/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gnanendra777/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
