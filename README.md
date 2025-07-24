@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gnanendra777/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Gnanendra777/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gnanendra777/Leetcode/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Gnanendra777/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gnanendra777/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gnanendra777/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Gnanendra777/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Gnanendra777/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gnanendra777/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Gnanendra777/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gnanendra777/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gnanendra777/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Gnanendra777/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Gnanendra777/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Gnanendra777/Leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Gnanendra777/Leetcode/tree/master/0861-flipping-an-image) |
 ## Memoization
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gnanendra777/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
