@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Gnanendra777/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gnanendra777/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Gnanendra777/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Gnanendra777/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gnanendra777/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Gnanendra777/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Gnanendra777/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gnanendra777/Leetcode/tree/master/0326-power-of-three) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gnanendra777/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gnanendra777/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gnanendra777/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Gnanendra777/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gnanendra777/Leetcode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Gnanendra777/Leetcode/tree/master/0861-flipping-an-image) |
 ## Linked List
