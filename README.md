@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gnanendra777/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1078-remove-outermost-parentheses](https://github.com/Gnanendra777/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [3379-score-of-a-string](https://github.com/Gnanendra777/Leetcode/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gnanendra777/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Gnanendra777/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
