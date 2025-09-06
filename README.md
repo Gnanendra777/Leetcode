@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Gnanendra777/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Gnanendra777/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0898-transpose-matrix) |
+| [0966-binary-subarrays-with-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Gnanendra777/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gnanendra777/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Gnanendra777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Gnanendra777/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gnanendra777/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Gnanendra777/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gnanendra777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
