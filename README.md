@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Gnanendra777/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gnanendra777/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gnanendra777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Gnanendra777/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Gnanendra777/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Gnanendra777/Leetcode/tree/master/0792-binary-search) |
@@ -324,12 +325,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gnanendra777/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Gnanendra777/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Gnanendra777/Leetcode/tree/master/0561-array-partition) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gnanendra777/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gnanendra777/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Gnanendra777/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Gnanendra777/Leetcode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Gnanendra777/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Gnanendra777/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
@@ -371,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gnanendra777/Leetcode/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Gnanendra777/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
