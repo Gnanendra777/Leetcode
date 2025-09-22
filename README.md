@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Gnanendra777/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Gnanendra777/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Gnanendra777/Leetcode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/Gnanendra777/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gnanendra777/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gnanendra777/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Gnanendra777/Leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Gnanendra777/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Gnanendra777/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
