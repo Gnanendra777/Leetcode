@@ -11,7 +11,6 @@ class Solution {
             if(s[r] >= g[l]){
                 l++;
             }
-
             r++;
         }
         return l;
