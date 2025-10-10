@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gnanendra777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Gnanendra777/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Gnanendra777/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Gnanendra777/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Gnanendra777/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Gnanendra777/Leetcode/tree/master/0861-flipping-an-image) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gnanendra777/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Gnanendra777/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Gnanendra777/Leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Gnanendra777/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Gnanendra777/Leetcode/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Gnanendra777/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2032-largest-odd-number-in-string](https://github.com/Gnanendra777/Leetcode/tree/master/2032-largest-odd-number-in-string) |
