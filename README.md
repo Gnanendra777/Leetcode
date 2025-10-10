@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Gnanendra777/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/Gnanendra777/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Gnanendra777/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gnanendra777/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Gnanendra777/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gnanendra777/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Gnanendra777/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Gnanendra777/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gnanendra777/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Gnanendra777/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Gnanendra777/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Gnanendra777/Leetcode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Gnanendra777/Leetcode/tree/master/0890-lemonade-change) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Gnanendra777/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2032-largest-odd-number-in-string](https://github.com/Gnanendra777/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
