@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gnanendra777/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gnanendra777/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Gnanendra777/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Gnanendra777/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gnanendra777/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gnanendra777/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gnanendra777/Leetcode/tree/master/0342-power-of-four) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Gnanendra777/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Gnanendra777/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Gnanendra777/Leetcode/tree/master/0898-transpose-matrix) |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Gnanendra777/Leetcode/tree/master/0561-array-partition) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gnanendra777/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
