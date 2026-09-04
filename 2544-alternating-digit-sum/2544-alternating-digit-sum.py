@@ -2,9 +2,14 @@ class Solution(object):
     def alternateDigitSum(self, n):
         sum = 0
         sign = 1
-        while n > 0 :
+        rev = 0
+        while n:
             ld = n % 10
-            sum = sum + ld * sign
-            sign = -sign
+            rev = rev *10 + ld 
             n = n // 10
-        return sum * (-sign)
+        while rev > 0 :
+            ld = rev % 10
+            sum = sum + ld *sign
+            sign = -sign
+            rev = rev // 10
+        return sum
