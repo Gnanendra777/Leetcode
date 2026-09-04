@@ -7,6 +7,5 @@ class Solution(object):
                 total = total + ld
                 num = num // 10
             num = total
-        
         return num
         
