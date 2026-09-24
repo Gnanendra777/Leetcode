@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gnanendra777/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Gnanendra777/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gnanendra777/Leetcode/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Gnanendra777/Leetcode/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/Gnanendra777/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Gnanendra777/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Gnanendra777/Leetcode/tree/master/0205-isomorphic-strings) |
