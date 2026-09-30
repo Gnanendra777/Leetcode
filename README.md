@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Gnanendra777/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Gnanendra777/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2544-alternating-digit-sum](https://github.com/Gnanendra777/Leetcode/tree/master/2544-alternating-digit-sum) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Gnanendra777/Leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Gnanendra777/Leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Gnanendra777/Leetcode/tree/master/0509-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Gnanendra777/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Gnanendra777/Leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
